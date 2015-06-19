@@ -2,6 +2,8 @@
 
 ## dogescript [![NPM version](https://badge.fury.io/js/dogescript.png)](http://badge.fury.io/js/dogescript)
 
+[![Join the chat at https://gitter.im/aaronaardvark/dogescript](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aaronaardvark/dogescript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 (aka when Zach went insane)
 
 This is an implementation of the best new compile-to-JS language, dogescript. Wow. 
